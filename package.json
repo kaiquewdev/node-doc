@@ -1,0 +1,33 @@
+{
+    "name": "node-doc",
+    "version": "0.0.1",
+    "private": false,
+    "preferGlobal": true,
+    "author": "Kaique da Silva <kaique.developer@gmail.com>",
+    "description": "Node documentation for CLI lovers.",
+    "contributors": [],
+    "bin": "./bin/index.js",
+    "scripts": {
+        "start": "",
+        "test": ""
+    },
+    "main": "./lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kaiquewdev/node-doc.git"
+    },
+    "keywords": [
+        "node",
+        "documentation",
+        "cli"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "*"
+    },
+    "bundleDependencies": [],
+    "license": "BSD",
+    "engines": {
+        "node": ">=0.8.x"
+    }
+}
